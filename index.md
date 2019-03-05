@@ -3,7 +3,7 @@ layout: home
 ---
 # hello there :)
 
-i'm a programmer and I like to talk to poeple and work on interesting stuff
-kotlin, c#, javascript & functional programming
+i'm a programmer interested in purposeful projects. 
+fan of kotlin, c#, js and functional programming
 
 ...also beer is cool
