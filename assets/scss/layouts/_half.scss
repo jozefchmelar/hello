@@ -34,8 +34,9 @@
 
   .skills {
     @include button--outline();
-    background-color: black;
     border: 1px solid black;
+    cursor: auto;
+    
   }
 
   .socialLInk__twitter:hover{

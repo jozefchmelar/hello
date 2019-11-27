@@ -486,8 +486,8 @@ dd {
   cursor: pointer;
   margin-bottom: 0.5em;
   transition: background-color 0.14s ease-in-out;
-  background-color: black;
   border: 1px solid black;
+  cursor: auto;
 }
 .half .skills:hover, .half .skills:focus {
   color: white;
