@@ -4,8 +4,7 @@ title: Jozef Chmelar
 description:  Jozef Chmelar | .
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
-
+content: Do you know that there are people who think that software engineering is only about code? I'm not one of them.Talk to people. Solve problems. Help others. Network. Keep business in mind. Iterate. Say no. Say yes. Trust. That's what I do. I do more. 
 # Add your social links
 social:
   - platform: medium
@@ -16,7 +15,19 @@ social:
     url: https://twitter.com/jojkooo
   - platform: linkedin
     url: https://www.linkedin.com/in/jozef-chmel%C3%A1r-92204728/
- 
+
+skills:
+  - name : C#
+  - name : Kotlin
+  - name : Android
+  - name : JavaScript
+  - name : RxJava
+interests:
+  - name : Startups
+  - name : Soft-skills
+  - name : Functional programming
+  - name : Marketing
+  - name : Business development
 
 # General settings
 url: https://jozef.chmelar.tech/

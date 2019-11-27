@@ -2,4 +2,7 @@
   {% for link in site.social %}
       <a class="socialLinks__link socialLInk__{{ link.platform }}" href="{{ link.url }}" target="_blank">{{ link.platform }}</a>
   {% endfor %}
+  {% for link in site.skills %}
+  <a class="socialLinks__link socialLInk__{{ link.name }}" href="#" target="_blank">{{ link.name }}</a>
+  {% endfor %}
 </div>
