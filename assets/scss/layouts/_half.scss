@@ -34,8 +34,22 @@
 
   .socialLInk__twitter:hover{
     background-color: #1da1f3;
+    border: 1px solid #1da1f3;
   }
 
+  .socialLInk__github:hover{
+    background-color: #171515;
+    border: 1px solid #171515;
+  }
+
+  .socialLInk__medium:hover{
+    background-color: #292929;
+    border: 1px solid #292929;
+  }
+  .socialLInk__linkedin:hover{
+    background-color: #0077b5;
+    border: 1px solid #0077b5;
+  }
   &__content {
     order: 2;
 
