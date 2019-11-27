@@ -8,9 +8,9 @@
   <main>
     <div class="half--{{ site.half_side }} half__content">
       {{ content }}
-      <ul>
+      <ul style="list-style: none;">
         {% for interest in site.interests %}
-        <li> {{interest.name}} <a href="{{intereset.url}}"  target="_blank"><i class="fa fa-external-link"></i></a></li>
+        <li> {{ interest.name }} <a href="{{ interest.url }}"  target="_blank"><i class="fa fa-external-link" style="font-size : 12px"></i></a></li>
         {% endfor %}
       </ul>
       {% include social.html %}
