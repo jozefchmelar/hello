@@ -8,14 +8,14 @@ content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis cons
 
 # Add your social links
 social:
-  - platform: medium
+  - platform: Medium
     url: https://medium.com/@Jozefchmelar
   - platform: github
     url: https://github.com/jozefchmelar
   - platform: twitter
     url: https://twitter.com/jojkooo
   - platform: linkedin
-    url: jozef-chmelár-92204728
+    url: https://www.linkedin.com/in/jozef-chmel%C3%A1r-92204728/
  
 
 # General settings

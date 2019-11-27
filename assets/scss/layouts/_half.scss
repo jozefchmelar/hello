@@ -32,6 +32,10 @@
     @include button--outline();
   }
 
+  .socialLInk__twitter:hover{
+    background-color: #1da1f3;
+  }
+
   &__content {
     order: 2;
 
