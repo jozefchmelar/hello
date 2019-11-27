@@ -1,0 +1,34 @@
+# Your Name or Company
+title: Jozef Chmelar
+# Description of your website. This is used for social sharing.
+description:  Jozef Chmelar | .
+
+# A brief blurb about yourself
+content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+
+# Add your social links
+social:
+   - platform: medium
+    url: https://medium.com/@Jozefchmelar
+  - platform: github
+    url: https://github.com/jozefchmelar
+  - platform: twitter
+    url: https://twitter.com/jojkooo
+  - platform: linkedin
+    url: jozef-chmelár-92204728
+ 
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
+markdown: kramdown
+sharing_image: share.jpg
+google_analytics: "UA-139370409-1" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
