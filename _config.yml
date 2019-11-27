@@ -1,10 +1,10 @@
 # Your Name or Company
 title: Jozef Chmelar
 # Description of your website. This is used for social sharing.
-description:  Jozef Chmelar | .
+description:  Check this guy!
 
 # A brief blurb about yourself
-content:  Do more.
+content: I believe that it's more about people than it is about the code.
 # Add your social links
 social:
   - platform: medium
@@ -33,6 +33,8 @@ interests:
     url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_measure-your-skills-activity-6602219741249585152-SZr-  
   - name : Erasmus - Jyväskylän ammattikorkeakoulu
     url : https://www.jamk.fi/en/Home/ 
+  - name : Read my articles
+    url : https://medium.com/@Jozefchmelar
 
 # General settings
 url: https://jozef.chmelar.tech/
