@@ -487,6 +487,7 @@ dd {
   margin-bottom: 0.5em;
   transition: background-color 0.14s ease-in-out;
   border: 1px solid #171515;
+  color: #171515;
   cursor: auto;
 }
 .half .skills:hover, .half .skills:focus {
@@ -497,6 +498,7 @@ dd {
 .half .skills:hover {
   background-color: transparent;
   border: 1px solid #171515;
+  color: #171515;
 }
 .half .socialLInk__twitter:hover {
   background-color: #1da1f3;
