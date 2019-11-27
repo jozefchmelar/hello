@@ -32,6 +32,12 @@
     @include button--outline();
   }
 
+  .skills {
+    @include button--outline();
+    background-color: black;
+    border: 1px solid black;
+  }
+
   .socialLInk__twitter:hover{
     background-color: #1da1f3;
     border: 1px solid #1da1f3;

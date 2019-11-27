@@ -470,6 +470,30 @@ dd {
   text-decoration: none;
   background-color: purple;
 }
+.half .skills {
+  background-color: transparent;
+  display: inline-block;
+  position: relative;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  text-decoration: none;
+  color: purple;
+  font-size: 0.9em;
+  line-height: 1.2em;
+  font-weight: 300;
+  padding: 0.5em 1.5em;
+  border: 1px solid purple;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 0.5em;
+  transition: background-color 0.14s ease-in-out;
+  background-color: black;
+  border: 1px solid black;
+}
+.half .skills:hover, .half .skills:focus {
+  color: white;
+  text-decoration: none;
+  background-color: purple;
+}
 .half .socialLInk__twitter:hover {
   background-color: #1da1f3;
   border: 1px solid #1da1f3;
