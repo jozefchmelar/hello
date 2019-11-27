@@ -486,13 +486,17 @@ dd {
   cursor: pointer;
   margin-bottom: 0.5em;
   transition: background-color 0.14s ease-in-out;
-  border: 1px solid black;
+  border: 1px solid #171515;
   cursor: auto;
 }
 .half .skills:hover, .half .skills:focus {
   color: white;
   text-decoration: none;
   background-color: purple;
+}
+.half .skills:hover {
+  background-color: transparent;
+  border: 1px solid #171515;
 }
 .half .socialLInk__twitter:hover {
   background-color: #1da1f3;
