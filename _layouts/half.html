@@ -8,6 +8,12 @@
   <main>
     <div class="half--{{ site.half_side }} half__content">
       {{ content }}
+      <ul>
+        {% for interest in site.interests %}
+        <li> {{interest.name}} <a href="{{intereset.url}}"  target="_blank"><i class="fas fa-external-link-alt"></i></a></li>
+        <a class="socialLinks__link socialLInk__{{ link.platform }}" href="{{ link.url }}" target="_blank">{{ link.platform }}</a>
+        {% endfor %}
+      </ul>
       {% include social.html %}
     </div>
     <div class="half__image"></div>

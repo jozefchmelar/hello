@@ -23,11 +23,17 @@ skills:
   - name : JavaScript
   - name : RxJava
 interests:
-  - name : Startups
-  - name : Soft-skills
-  - name : Functional programming
-  - name : Marketing
+  - name : Startup weekend Zilina 2018 - 2nd place
+    url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_startupweekend-swza-activity-6462584494540095488-0DYl
+  - name : Accenture Panel story Award
+    url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_we-won-an-award-with-our-project-about-augmented-activity-6374187385042849792-QZtV
   - name : Business development
+  - name : Google Fundamentals of digital marketing
+    url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_fundamental-of-digital-marketing-activity-6528224904381370368-79Xf  
+  - name : Pluralsight C# Expert
+    url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_measure-your-skills-activity-6602219741249585152-SZr-  
+  - name : Erasmus - Jyväskylän ammattikorkeakoulu
+    url : https://www.jamk.fi/en/Home/ 
 
 # General settings
 url: https://jozef.chmelar.tech/
