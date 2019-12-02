@@ -15,13 +15,14 @@ social:
     url: https://twitter.com/jojkooo
   - platform: linkedin
     url: https://www.linkedin.com/in/jozef-chmel%C3%A1r-92204728/
-
+    
 skills:
   - name : C#
   - name : Kotlin
   - name : Android
   - name : JavaScript
   - name : RxJava
+  
 interests:
   - name : Featured in C# Digest newsletter
     url : https://csharpdigest.net/digests/287
