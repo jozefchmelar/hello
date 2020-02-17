@@ -1,10 +1,11 @@
 # Your Name or Company
 title: Jozef Chmelar
 # Description of your website. This is used for social sharing.
-description:  Check this guy!
+description: Wakeboarding 🏄 Skiing ⛷️ and 3AM talks with friends about the purpose of life. And programmer but who cares.
 
 # A brief blurb about yourself
-content: I believe that it's more about people than it is about the code. I enjoy wakeboarding 🏄 and skiing really fast.
+content: In the end, happiness is a side effect of living well.
+I'm into wakeboarding 🏄 Skiing ⛷️ really fast and 3AM talks with friends about the purpose of life ☺️
 # Add your social links
 social:
   - platform: medium
@@ -22,6 +23,7 @@ skills:
   - name : Android
   - name : JavaScript
   - name : RxJava
+  - name : CI/CD
   
 interests:
   - name : Featured in C# Digest newsletter
