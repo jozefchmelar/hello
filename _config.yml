@@ -1,7 +1,7 @@
 # Your Name or Company
 title: Jozef Chmelar
 # Description of your website. This is used for social sharing.
-description: Wakeboarding 🏄 Skiing ⛷️ and 3AM talks with friends about the purpose of life. And programmer but who cares.
+description: Wakeboarding 🏄 Skiing ⛷️ and 3AM talks with friends about the purpose of life. And a programmer but who cares.
 
 # A brief blurb about yourself
 content: In the end, happiness is a side effect of living well.
@@ -25,6 +25,8 @@ skills:
   - name : CI/CD
   
 interests:
+  - name : Community manager & software engineer @ inxton
+    url : https://inxton.com
   - name : Featured in C# Digest newsletter
     url : https://csharpdigest.net/digests/287
   - name : Featured in dotNET Weekly newsletter
