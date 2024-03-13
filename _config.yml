@@ -1,7 +1,7 @@
 # Your Name or Company
 title: Jozef Chmelar
 # Description of your website. This is used for social sharing.
-description: Wakeboarding 🏄 Skiing ⛷️ and 3AM talks with friends about the purpose of life. And a programmer but who cares.
+description: Volleyball 🏐 Wakeboarding 🏄 Skiing ⛷️ and 3AM talks with friends about the purpose of life. And a programmer but who cares.
 
 # A brief blurb about yourself
 content: In the end, happiness is a side effect of living well.
@@ -18,6 +18,7 @@ social:
     
 skills:
   - name : C#
+  - name : Azure
   - name : Kotlin
   - name : Android
   - name : JavaScript
@@ -25,8 +26,12 @@ skills:
   - name : CI/CD
   
 interests:
-  - name : Community manager & software engineer @ inxton
+  - name : Software Engineer @ Microsoft Azure DevOps
+    url : https://dev.azure.com/
+  - name : Former Community manager & software engineer @ inxton
     url : https://inxton.com
+  - name : VS Code Diff tabs extensions
+    url : https://marketplace.visualstudio.com/items?itemName=JozefChmelar.compare
   - name : Featured in C# Digest newsletter
     url : https://csharpdigest.net/digests/287
   - name : Featured in dotNET Weekly newsletter
